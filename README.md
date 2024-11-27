@@ -45,6 +45,8 @@ python main.py
 
 ## Comprobación de conexion con el servidor
 
+![Diagrama del flujo](images/servidor.jpg "Servidor")
+
 
 ## POST para registrar profesor y consultar nomina usando FastAPI
 
