@@ -50,7 +50,7 @@ python main.py
 
 ## POST para registrar profesor y consultar nomina usando FastAPI
 
-
+![Post](images/post.jpeg "Post")
 
 
 
