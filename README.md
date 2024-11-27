@@ -28,9 +28,17 @@ Este proyecto es una aplicación de gestión de nómina que permite registrar do
 ### Instalación de Dependencias
 Ejecuta el siguiente comando para instalar las dependencias necesarias:
 ```bash
-pip install fastapi uvicorn pyswip pydantic
+pip install fastapi uvicorn pyswip pydantic 
+```
+
 
 ## Configuracion
+
+1. Asegúrate de tener SWI-Prolog instalado y configurado en tu sistema.
+Coloca el archivo nomina.pl en el mismo directorio que el archivo main.py.
+Ejecuta la aplicación FastAPI utilizando el siguiente comando:
+bash
+Copiar código
 
 
 
