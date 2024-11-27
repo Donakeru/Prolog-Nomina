@@ -35,10 +35,24 @@ pip install fastapi uvicorn pyswip pydantic
 ## Configuracion
 
 1. Asegúrate de tener SWI-Prolog instalado y configurado en tu sistema.
-Coloca el archivo nomina.pl en el mismo directorio que el archivo main.py.
-Ejecuta la aplicación FastAPI utilizando el siguiente comando:
-bash
-Copiar código
+2. Coloca el archivo nomina.pl en el mismo directorio que el archivo main.py.
+3. Ejecuta la aplicación FastAPI utilizando el siguiente comando:
+
+```bash
+python main.py
+
+```
+
+## Comprobación de conexion con el servidor
+
+
+## POST para registrar profesor y consultar nomina usando FastAPI
+
+
+
+
+
+
 
 
 
